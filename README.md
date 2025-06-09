@@ -1,16 +1,57 @@
-# to_do_app
+✅ ToDo App — Your Productivity Companion 📝
 
-A new Flutter mini project.
+ToDo App is a lightweight Flutter mini-project designed to help you organize tasks, set reminders, and boost productivity with an intuitive interface and smooth animations.
 
-## Getting Started
+🌟 Project Highlights
 
-This project is a starting point for a Flutter application.
+📋 Task Management
 
-A few resources to get you started if this is your first Flutter project:
+Create, edit, and delete tasks effortlessly.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Organize tasks into custom categories or projects.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Mark tasks as complete with a single tap.
+
+⏰ Reminders & Due Dates
+
+Set due dates and times for tasks.
+
+Receive in-app notifications to keep you on track.
+
+Snooze or reschedule reminders as needed.
+
+🔄 Recurring Tasks
+
+Configure daily, weekly, or custom recurrence patterns.
+
+Automatic regeneration of completed recurring tasks.
+
+🎨 Clean & Responsive UI
+
+Modern light & dark themes powered by Riverpod.
+
+Responsive layouts for phones and tablets.
+
+Smooth animations with Flutter’s built-in transitions.
+
+🚀 Performance & Persistence
+
+Fast and fluid experience with Flutter’s rendering.
+
+Local data storage using hive for offline support.
+
+Data export/import via JSON.
+
+🧰 Tech Stack
+
+    Category            Tools & Libraries
+
+    Framework           Flutter, Dart
+
+    State Management    Riverpod
+
+    Local Storage       Localstorage package
+
+    Theming             flex_color_scheme
+
+    Utilities           intl (date formatting), uuid
